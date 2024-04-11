@@ -1,0 +1,16 @@
+body{
+    background-image:-webkit-image-set("../public/Pictures/background2.gif")   
+}
+
+.pages{
+    margin-top: -60px;
+}
+
+div.navigation_div{
+    text-align: right;
+}
+
+p.navigation_pages{
+    color:white;
+}
+
