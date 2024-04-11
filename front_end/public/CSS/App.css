@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Headers';
+    src: url('Fonts/Header_Font.otf') format('truetype');
+}
+
+
 body{
     background-image:-webkit-image-set("../public/Pictures/background2.gif")   
 }
@@ -10,7 +16,8 @@ div.navigation_div{
     text-align: right;
 }
 
-p.navigation_pages{
+a.navigation_pages{
     color:white;
+    font-family: "headers";
 }
 

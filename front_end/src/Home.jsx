@@ -50,6 +50,8 @@ export function Home(){
                         the World Wide Web; You had to end up here.
                         Try to be careful. You're always being watched. 
                         Not by me but by many more...
+                        
+                        Want to know more about us? You're diging your own grave
                     </p>
                 </div>
             </div>
