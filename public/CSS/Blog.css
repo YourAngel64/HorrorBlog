@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Headers';
+    src: url('Fonts/Header_Font.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'names';
+    src: url('Fonts/names.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'normal';
+    src: url('Fonts/Insomnia Night.otf') format('truetype');
+}
+
+p.title{
+    margin-left: 10px;
+    color:white;
+    font-family: "Headers";
+    font-size: 40px;
+}
+
+div.description{
+    width: 400px;
+}
+
+p.description{   
+    margin-left: 10px;
+    color:white;
+    font-family: "normal";
+    overflow: auto;
+    font-size: 20px;
+}
