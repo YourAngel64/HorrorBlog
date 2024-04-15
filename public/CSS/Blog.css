@@ -31,3 +31,38 @@ p.description{
     overflow: auto;
     font-size: 20px;
 }
+
+
+div.posts{
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+div.posts_space{
+    height: 200px;
+    width: 350px;
+}
+
+a.posts{
+    color:white;
+}
+
+img.posts{
+    width: 140px;
+    height: 140px;
+}
+
+h3.posts{
+    font-family: "names";
+    color:white;
+    margin-left: 160px;
+    margin-top: -140px;
+}
+
+p.posts{
+    font-family: "normal";
+    font-size: 15px;
+    color:white;
+    margin-top: -6px;
+    margin-left: 160px;
+}

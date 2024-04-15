@@ -1,6 +1,6 @@
 import { useState } from "react"
 import "../public/CSS/Home.css"
-
+import App from './App.jsx'
 
 
 
@@ -29,6 +29,7 @@ export function Home(){
     //Elements coding:
     return(
         <>
+            <App/>
             <p className="titles">Home...</p>
             <p className="names">ENTEN</p>
             {/* div where eyes follow mouse */}
