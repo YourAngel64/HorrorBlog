@@ -10,17 +10,21 @@
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: black;
+    background: transparent;
   }
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: black;
+    background: transparent;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: black;
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-corner{
+    background: transparent;
   }
 
 

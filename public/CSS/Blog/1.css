@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Headers';
+    src: url('/public/Fonts/Header_Font.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'names';
+    src: url('/public/Fonts/names.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'normal';
+    src: url('/public/Fonts/Insomnia Night.otf') format('truetype');
+}
+
+div.blog1_main{
+    width: 1340px;
+    height: 570px;
+
+    margin-top: 20px;
+    background-size: cover;
+    overflow: scroll;
+    background-image: -webkit-image-set('../public/Pictures/blog/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#div_button{
+    margin-left: 97%;
+}
+
+a.back_button{
+    color: white;
+}
+
+p.back_button{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: "Headers";
+
+    position: fixed ;
+}
+
+#title{
+    font-family: 'names';
+    color:white;
+    text-align: center;
+}
