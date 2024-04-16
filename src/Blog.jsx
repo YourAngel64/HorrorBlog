@@ -18,7 +18,7 @@ export function Blog(){
 
             <div className="posts">
                 <div className="posts_space">
-                    <img src="/Pictures/blog/ISTHISTHEPLACE" className="posts" />
+                    <img src="/Pictures/blog/ISTHISTHEPLACE.png" className="posts" />
                     <a href="/posts/1" className="posts"><h3 className="posts">The neighborhood</h3></a>
                     <p className="posts">
                         2001/7/14 - 

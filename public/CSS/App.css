@@ -3,10 +3,27 @@
     src: url('Fonts/Header_Font.otf') format('truetype');
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: black;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: black;
+  }
 
-body{
-    background-image:-webkit-image-set("../public/Pictures/background2.gif")   
-}
+
 
 .pages{
     margin-top: -60px;

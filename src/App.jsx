@@ -7,6 +7,15 @@ export default function App(){
 
   return(
     <> 
+      <style>
+        {
+          `
+            body{
+              background-image: url('../public/Pictures/background2.gif');
+            }
+          `
+        }
+      </style>
       <div className="navigation_div">
         <a href="/" className="navigation_pages" >Home</a>
         <br />
