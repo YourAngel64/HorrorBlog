@@ -16,7 +16,8 @@ export function Blog_1(){
             `
             }
             </style>
-
+            
+            {/* This is the background. so everything needs to be here */}
             <div className="blog1_main">
                 
                 <div id="div_button">
@@ -24,11 +25,40 @@ export function Blog_1(){
                 </div>
                 
                 <br />
-                
+                <br />
 
                 <h1 id="title"><u>The Neighborhood</u></h1>
 
                 
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+
             </div>
             
         </>
